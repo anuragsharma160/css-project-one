@@ -9,3 +9,6 @@
     - Background repeat and background position
 
 2. Honest time to finish this project - 15 days
+
+3. Live link of the project -
+[CSS-Assignment-1](https://css-project-one-tau.vercel.app/ "Link")
